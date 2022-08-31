@@ -10,7 +10,7 @@
 ![](https://cdn-icons-png.flaticon.com/128/5968/5968342.png) Postgres
 ![](https://cdn-icons-png.flaticon.com/128/4299/4299956.png) 
 ![](https://cdn-icons-png.flaticon.com/128/1387/1387588.png) Django
-![](https://cdn-icons-png.flaticon.com/128/4926/4926624.png)
+![](https://cdn-icons-png.flaticon.com/128/4926/4926624.png) Git
 
 
 ## Social Meadias
