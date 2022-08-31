@@ -13,8 +13,13 @@
 ![](https://cdn-icons-png.flaticon.com/128/4926/4926624.png) Git
 
 
-## Social Meadias
+## Social medias 📲
 
 [![](https://cdn-icons-png.flaticon.com/128/253/253802.png)](https://t.me/Mirtazayevv) 
 [![](https://cdn-icons-png.flaticon.com/128/1077/1077042.png)](https://instagram.com/Mirtazayev_)
 [![](https://cdn-icons-png.flaticon.com/128/739/739237.png)](https://facebook.com/Mirtazayev)
+
+
+## Find me elsewhere 📡
+[![](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)](https://leetcode.com/mirtazayev/)
+# [Robocontest Team](https://robocontest.uz/profile/mirtazayev)
