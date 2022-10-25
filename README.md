@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Asadbek Mirtazayev
 - 👀 I’m interested in python back-end development
-- 🌱 I’m currently learning python back-end development at PDP Academy
+- 🌱 I’m currently learning python back-end development online
 - 📫 Contact : Gmail : asadbekmirtazayev007@gmail.com | Telegram ![Mirtazayev](htpps://t.me/Mirtazayevv)
 
 ## Languages & Tools 💼
