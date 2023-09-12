@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **mirtazayev.uz@gmail.com | +9989 93 073 23 08**
 
-- 📄 Know about my experiences [https://tashkent.hh.uz/resume/0f84ea9bff0b2fc5b10039ed1f6c4634526346](https://tashkent.hh.uz/resume/0f84ea9bff0b2fc5b10039ed1f6c4634526346)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mirtazayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mirtazayev" height="30" width="40" /></a>
