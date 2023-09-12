@@ -12,7 +12,7 @@
 
 - 🤝 My last freelance project [Tripmeetup](https://tripmeetup.com/)
 
-- 📫 How to reach me **mirtazayev.uz@gmail.com | +9989 93 073 23 08**
+- 📫 How to reach me **mirtazayev.2004@gmail.com | asadbek.mirtazayev@drake.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
