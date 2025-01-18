@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirtazayev&label=Profile%20views&color=0e75b6&style=flat" alt="mirtazayev" /> </p>
 
-- 🔭 I’m currently working on [GreenShop](https://github.com/mirtazayev/FastApi-GreenShop.git)
+- 🔭 I’m currently working on [Mirtazayev Blog](https://github.com/mirtazayev/mirtazayevBlog.git)
 
-- 🌱 I’m currently learning **Flask and FastAPI**
+- 🌱 I’m currently learning **Flask and Django DRF**
 
 - 🤝 My last freelance project [Tripmeetup](https://tripmeetup.com/)
 
