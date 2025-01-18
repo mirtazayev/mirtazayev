@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mirtazayev Blog](https://github.com/mirtazayev/mirtazayevBlog.git)
 
-- 🌱 I’m currently learning **Flask and Django DRF**
+- 🌱 Now learning **Flask and Django DRF**
 
 - 🤝 My last freelance project [Tripmeetup](https://tripmeetup.com/)
 
