@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asadbek Mirtazayev</h1>
-<h3 align="center">A Backend Engineer from Uzbekistan</h3>
+<h3 align="center">A Backend Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirtazayev&label=Profile%20views&color=0e75b6&style=flat" alt="mirtazayev" /> </p>
 
-- 🔭 I’m currently working on [Mirtazayev Blog](https://github.com/mirtazayev/TelegramAPI.git)
+- 🔭 I’m currently working on [Telegram API](https://github.com/mirtazayev/TelegramAPI.git)
 
 - 🌱 Now learning **Django DRF**
 
